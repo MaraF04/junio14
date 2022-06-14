@@ -2,3 +2,5 @@ iniciando archivo 2
 segundo archivo
 linea 3
 linea 4
+esto es nuevo
+ya cambio el archivo
